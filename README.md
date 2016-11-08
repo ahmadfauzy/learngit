@@ -1,0 +1,2 @@
+# learngit
+Project Latihan saja
